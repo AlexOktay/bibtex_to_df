@@ -2,6 +2,7 @@
 R function to convert bibtex bibliography files to dataframe / CSV 
 
 Input: bib text file
+
 Output: a dataframe separating Author, Title, Journal, Type of citations, and Year for each citation
 
 Notes:
