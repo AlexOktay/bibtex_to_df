@@ -3,7 +3,7 @@ library(stringi)
 library(stringr)
 
 ### CHANGE PATH
-user_path<-"C:/Users/alexo/Desktop/Research papers/2. Bibtex to CSV"
+user_path<-"path"
 
 # Setup
 rm(list = ls())
