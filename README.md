@@ -7,4 +7,4 @@ Output: a dataframe separating Author, Title, Journal, Type of citations, and Ye
 Notes:
   - Can be extended to other input fields (institution etc.) easily
   - Mainly designed for article, book, inproceedings, and technical report types but can be extended
-  - Created to quickly output large .bib files from research papers into an excel/CSV format for quick archiving of the papers cited
+  - Created to quickly output large .bib files from research papers into an excel/CSV format
