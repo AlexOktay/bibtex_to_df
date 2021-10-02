@@ -1,0 +1,362 @@
+@Book{Pesaran_2015,title = {Time Series and Panel Data Econometrics},author = {Pesaran, M. Hashem},publisher = {Oxford University Press},address = {Oxford},year = {2015}}
+
+@article{hodrick_prescott_1997, title={Postwar U.S. Business Cycles: An Empirical Investigation}, volume={29}, DOI={10.2307/2953682}, number={1}, journal={Journal of Money, Credit and Banking}, author={Hodrick, Robert J. and Prescott, Edward C.}, year={1997}, pages={1} }
+
+@book{enders_2014, place={New York}, title={Applied Econometric Time Series, 4th Edition}, publisher={John Wiley \& Sons}, author={Enders, Walter}, year={2014} }
+
+@article{sims_1980, title={Macroeconomics and Reality}, volume={48}, DOI={10.2307/1912017}, number={1}, journal={Econometrica}, author={Sims, Christopher A.}, year={1980}, pages={1} }
+
+@article{stock_watson_2001, title={Vector Autoregressions}, volume={15}, DOI={10.1257/jep.15.4.101}, number={4}, journal={Journal of Economic Perspectives}, author={Stock, James H and Watson, Mark W}, year={2001}, pages={101-115} }
+
+@article{pfaff_2008, title={{VAR}, {SVAR} and {SVEC} Models: Implementation Within {R} Package vars}, volume={27}, DOI={10.18637/jss.v027.i04}, number={4}, journal={Journal of Statistical Software}, author={Pfaff, Bernhard}, year={2008} }
+
+@article{akaike_1969, title={Fitting autoregressive models for prediction}, volume={21}, DOI={10.1007/bf02532251}, number={1}, journal={Annals of the Institute of Statistical Mathematics}, author={Akaike, Hirotugu}, year={1969}, pages={243-247} }
+
+@article{akaike_1973, title={Maximum likelihood identification of Gaussian autoregressive moving average models}, volume={60}, DOI={10.1093/biomet/60.2.255}, number={2}, journal={Biometrika}, author={Akaike, Hirotugu}, year={1973}, pages={255-265} }
+
+@article{hannan_quinn_1979, title={The Determination of the Order of an Autoregression}, volume={41}, DOI={10.1111/j.2517-6161.1979.tb01072.x}, number={2}, journal={Journal of the Royal Statistical Society: Series B (Methodological)}, author={Hannan, E. J. and Quinn, B. G.}, year={1979}, pages={190-195} }
+
+@article{liew_2004, title={Which Lag Length Selection Criteria Should We Employ?}, volume={3}, number={33}, journal={Economics Bulletin}, author={Liew, Venus Khim-Sen}, year={2004}, pages={1-9} }
+
+@inproceedings{allen_fildes_2001,
+  title={Econometric Forecasting},
+  author={Allen, P. Geoffrey and Fildes, Robert},
+  booktitle={Principles of Forecasting: A Handbook for Researchers and Practitioners},
+  editor={Armstrong, J. Scott},
+  year={2001},
+  publisher={Kluwer Academic Publishers}
+}
+
+@article{fanchon_wendel_1992, title={Estimating {VAR} models under non-stationarity and cointegration: alternative approaches for forecasting cattle prices}, volume={24}, DOI={10.1080/00036849200000119}, number={2}, journal={Applied Economics}, author={Fanchon, Phillip and Wendel, Jeanne}, year={1992}, pages={207-217} }
+
+@article{hatemi-j_2004, title={Multivariate tests for autocorrelation in the stable and unstable {VAR} models}, volume={21}, DOI={10.1016/j.econmod.2003.09.005}, number={4}, journal={Economic Modelling}, author={Hatemi-J, Abdulnasser}, year={2004}, pages={661-683} }
+
+@article{johansen_1991, title={Estimation and Hypothesis Testing of Cointegration Vectors in Gaussian Vector Autoregressive Models}, volume={59}, DOI={10.2307/2938278}, number={6}, journal={Econometrica}, author={Johansen, Soren}, year={1991}, pages={1551} }
+
+@article{engle_2002, title={Dynamic Conditional Correlation: A Simple Class of Multivariate Generalized Autoregressive Conditional Heteroskedasticity Models}, volume={20}, DOI={10.1198/073500102288618487}, number={3}, journal={Journal of Business \& Economic Statistics}, author={Engle, Robert}, year={2002}, pages={339-350} }
+
+@book{cochrane_1997, place={Chicago, IL}, title={Time Series for Macroeconomics and Finance}, publisher={University of Chicago Graduate School of Business}, author={Cochrane, John H.}, year={1997} }
+
+@article{cleveland_cleveland_mcrae_terpenning_1990, title={{STL}: A Seasonal-Trend Decomposition Procedure Based on Loess}, volume={6}, number={1}, journal={Journal of Official Statistics}, author={Cleveland, Robert B. and Cleveland, William S. and McRae, Jean E. and Terpenning, Irma}, year={1990}, pages={3-73} }
+
+@article{schwarz_1978, title={Estimating the Dimension of a Model}, volume={6}, DOI={10.1214/aos/1176344136}, number={2}, journal={The Annals of Statistics}, author={Schwarz, Gideon}, year={1978} }
+
+@article{dickey_fuller_1981, title={Likelihood Ratio Statistics for Autoregressive Time Series with a Unit Root}, volume={49}, DOI={10.2307/1912517}, number={4}, journal={Econometrica}, author={Dickey, David A. and Fuller, Wayne A.}, year={1981}, pages={1057} }
+
+@article{breusch_1978, title={Testing for Autocorrelation in Dynamic Linear Models}, volume={17}, DOI={10.1111/j.1467-8454.1978.tb00635.x}, number={31}, journal={Australian Economic Papers}, author={Breusch, T. S.}, year={1978}, pages={334-355} }
+
+@article{engle_1982, title={Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation}, volume={50}, DOI={10.2307/1912773}, number={4}, journal={Econometrica}, author={Engle, Robert}, year={1982}, pages={987} }
+
+@misc{SIX, author = {{SIX}}, title = {{SMI} Blue-Chip Index}, year = {2021}, organization={Swiss Exchange}, note = {data retrieved from SIX, \url{https://www.six-group.com/exchanges/indices/data_centre/shares/smi_en.html}},}
+
+@misc{Consumption, author = {{Monitoring Consumption Switzerland}}, title = {Overview data}, year = {2021}, note = {data retrieved from Monitoring Consumption, \url{https://monitoringconsumption.com/data/}},}
+
+@misc{SECO, author = {{SECO}}, title = {Index of weekly economic activity}, organization={State Secretariat for Economic Affairs}, year = {2021}, note = {data retrieved from SECO, \url{https://www.seco.admin.ch/seco/en/home/wirtschaftslage---wirtschaftspolitik/Wirtschaftslage/indikatoren/wwa.html}},}
+
+@misc{Electricity, author = {{Swissgrid}}, title = {Energy Statistic Switzerland 2021}, year = {2021}, note = {data retrieved from Swissgrid, \url{https://www.swissgrid.ch/en/home/operation/grid-data/generation.html}},}
+
+@misc{Stringency, author = {{KOF}}, organization={Swiss Economic Institute}, title = {{KOF} Stringency Index}, year = {2021}, note = {data retrieved from KOF, \url{https://kof.ethz.ch/en/forecasts-and-indicators/indicators/kof-stringency-index.html}},}
+
+@misc{Mobility, author = {{Google}}, title = {{COVID-19} Community Mobility Reports}, year = {2021}, note = {data retrieved from Google, \url{https://www.google.com/covid19/mobility/}},}
+
+@misc{Covid, author = {{FOPH}}, organization={Federal Office of Public Health}, title = {{COVID-19} Switzerland}, year = {2021}, note = {data retrieved from FOPH, \url{https://www.covid19.admin.ch/en/overview}},}
+
+@misc{Jobroom, author = {{SECO}}, organization={State Secretariat for Economic Affairs}, title = {Jobroom Candidates}, year = {2021}, note = {data retrieved from KOF, \url{https://github.com/KOF-ch/economic-monitoring/tree/master/data}},}
+
+@misc{Bankrupt, author = {{SHAB}}, organization={Swiss Official Gazette of Commerce}, title = {Bankruptcies and new Companies}, year = {2021}, note = {data retrieved from KOF, \url{https://github.com/KOF-ch/economic-monitoring/tree/master/data}},}
+
+@misc{AirPol, author = {{FOEN}}, organization={Federal Office for the Environment}, title = {NABEL National Air Pollution Monitoring Network}, year = {2021}, note = {data retrieved from NABEL, \url{https://www.bafu.admin.ch/bafu/en/home/topics/air/state/data/data-query-nabel.html}},}
+
+@misc{Consumption2, author = {{SNB}}, organization={Swiss National Bank}, title = {Payments and Cash Withdrawals}, year = {2021}, note = {data retrieved from SNB, \url{https://data.snb.ch/en/topics/finma\!/cube/zavezaluba}},}
+
+@article{copat_al_2020, title={The role of air pollution ({PM} and {NO2}) in {COVID-19} spread and lethality: A systematic review}, volume={191}, DOI={10.1016/j.envres.2020.110129}, journal={Environmental Research}, author={Copat, Chiara and Cristaldi, Antonio and Fiore, Maria and Grasso, Alfina and Zuccarello, Pietro and Signorelli, Salvatore Santo and Conti, Gea Oliveri and Ferrante, Margherita}, year={2020}, pages={110129} }
+
+@article{ogen_2020, title={Assessing nitrogen dioxide ({NO2}) levels as a contributing factor to coronavirus ({COVID-19}) fatality}, volume={726}, DOI={10.1016/j.scitotenv.2020.138605}, journal={Science of The Total Environment}, author={Ogen, Yaron}, year={2020}, pages={138605} }
+
+@article{hochreiter_schmidhuber_1997, title={Long Short-Term Memory}, volume={9}, DOI={10.1162/neco.1997.9.8.1735}, number={8}, journal={Neural Computation}, author={Hochreiter, Sepp and Schmidhuber, Jürgen}, year={1997}, pages={1735-1780} }
+
+@Book{Hyndman_2018,title = {Forecasting: principles and practice},author = {Hyndman, Rob J. and Athanasopoulos, George},publisher = {OTexts},address = {Melbourne},year = {2018}}
+
+@article{galli_hepenstrick_scheufele_2019, title={Mixed-Frequency Models for Tracking Short-Term Economic Developments in Switzerland}, volume={58}, journal={International Journal of Central Banking}, author={Galli, Alain and Hepenstrick, Christian and Scheufele, Rolf}, year={2019} }
+
+@article{lack_2006, title={Forecasting Swiss inflation using {COVID-19} models}, volume={2}, journal={Swiss National Bank Economic Studies}, author={Lack, Caesar}, year={2006} }
+
+@article{shon_kim_song_2011, title={Long-term trend in {NO2} and {NOx} levels and their emission ratio in relation to road traffic activities in East Asia}, volume={45}, DOI={10.1016/j.atmosenv.2011.03.009}, number={18}, journal={Atmospheric Environment}, author={Shon, Zang-Ho and Kim, Ki-Hyun and Song, Sang-Keun}, year={2011}, pages={3120-3131} }
+
+@article{castle2021value, title={The value of robust statistical forecasts in the {COVID-19} pandemic}, author={Castle, JL and Doornik, J and Hendry, D}, journal={National Institute Economic Review},   year={2021}, publisher={Cambridge University Press} }
+
+@article{foroni2020forecasting,   title={Forecasting the {COVID-19} recession and recovery: Lessons from the financial crisis},   author={Foroni, Claudia and Marcellino, Massimiliano and Stevanovic, Dalibor},   journal={International Journal of Forecasting},   year={2020},   publisher={Elsevier} }
+
+@article{gharehgozli2020impact,   title={Impact of {COVID-19} on the Economic Output of the US Outbreak’s Epicenter},   author={Gharehgozli, Orkideh and Nayebvali, Peyman and Gharehgozli, Amir and Zamanian, Zaman},   journal={Economics of Disasters and Climate Change},   volume={4},   number={3},   pages={561--573},   year={2020},   publisher={Springer} }
+
+@article{khurshid2021covid,   title={How {COVID-19} shock will drive the economy and climate? A data-driven approach to model and forecast},   author={Khurshid, Adnan and Khan, Khalid},   journal={Environmental Science and Pollution Research},   volume={28},   number={3},   pages={2948--2958},   year={2021},   publisher={Springer} }
+
+
+@article{kwiatkowski_testing_1992,
+	title = {Testing the null hypothesis of stationarity against the alternative of a unit root: How sure are we that economic time series have a unit root?},
+	volume = {54},
+	doi = {10.1016/0304-4076(92)90104-Y},
+	pages = {159--178},
+	number = {1},
+	journal = {Journal of Econometrics},
+	shortjournal = {Journal of Econometrics},
+	author = {Kwiatkowski, Denis and Phillips, Peter C. B. and Schmidt, Peter and Shin, Yongcheol},
+    year={1992}
+}
+
+@article{ljung_measure_1978,
+	title = {On a Measure of Lack of Fit in Time Series Models},
+	volume = {65},
+	doi = {10.2307/2335207},
+	pages = {297--303},
+	number = {2},
+	journal = {Biometrika},
+	author = {Ljung, G. M. and Box, G. E. P.},
+	year = {1978}
+}
+
+@article{akima_new_1970,
+	title = {A New Method of Interpolation and Smooth Curve Fitting Based on Local Procedures},
+	volume = {17},
+	doi = {10.1145/321607.321609},
+	pages = {589--602},
+	number = {4},
+	journal = {Journal of the ACM},
+	author = {Akima, Hiroshi},
+	year={1970}
+}
+
+@article{brulhart_covid-19_2020,
+	title = {{COVID}-19 financial support to small businesses in Switzerland: evaluation and outlook},
+	volume = {156},
+	doi = {10.1186/s41937-020-00060-y},
+	shorttitle = {{COVID}-19 financial support to small businesses in Switzerland},
+	pages = {15},
+	number = {1},
+	journal = {Swiss Journal of Economics and Statistics},
+	shortjournal = {Swiss Journal of Economics and Statistics},
+	author = {Brülhart, Marius and Lalive, Rafael and Lehmann, Tobias and Siegenthaler, Michael},
+	year={2020}
+}
+
+@article{fuhrer_firms_2021,
+	title = {Firms’ participation in the Swiss {COVID-19} loan programme},
+	volume = {157},
+	doi = {10.1186/s41937-021-00070-4},
+	pages = {2},
+	number = {1},
+	journal = {Swiss Journal of Economics and Statistics},
+	shortjournal = {Swiss Journal of Economics and Statistics},
+	author = {Fuhrer, Lucas Marc and Ramelet, Marc-Antoine and Tenhofen, Jörn},
+	year={2021}
+}
+
+@article{clement1993var,
+  title={{VAR} et pr{\'e}visions conjoncturelles},
+  author={Cl{\'e}ment, Emmanuelle and Germain, Jean-Marc},
+  journal={Annales d'{\'e}conomie et de statistique},
+  pages={113--135},
+  year={1993},
+  publisher={JSTOR}
+}
+
+@article{hoffman1996assessing,
+  title={Assessing forecast performance in a cointegrated system},
+  author={Hoffman, Dennis L and Rasche, Robert H},
+  journal={Journal of applied econometrics},
+  volume={11},
+  number={5},
+  pages={495--517},
+  year={1996},
+  publisher={Wiley Online Library}
+}
+
+@article{hendry1978serial,
+  title={Serial correlation as a convenient simplification, not a nuisance: A comment on a study of the demand for money by the Bank of England},
+  author={Hendry, David F and Mizon, Grayham E},
+  journal={The Economic Journal},
+  volume={88},
+  number={351},
+  pages={549--563},
+  year={1978},
+  publisher={JSTOR}
+}
+
+@misc{elsworth2020time,
+      title={Time Series Forecasting Using {LSTM} Networks: A Symbolic Approach}, 
+      author={Steven Elsworth and Stefan Güttel},
+      year={2020},
+      eprint={2003.05672},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+
+@article{multiple_model_best,
+title = {Comparison of Performance of Various Multiple-model Ensemble Techniques in Forecasting Intensity of Tropical Cyclone},
+journal = {Tropical Cyclone Research and Review},
+volume = {1},
+number = {3},
+pages = {353-360},
+year = {2012},
+doi = {https://doi.org/10.6057/2012TCRR03.03},
+author = {Nursalleh K. Chang and L.S. Lee and Y.S. Li},
+}
+
+@article{sagheer2019unsupervised,
+  title={Unsupervised pre-training of a deep {LSTM}-based stacked autoencoder for multivariate time series forecasting problems},
+  author={Sagheer, Alaa and Kotb, Mostafa},
+  journal={Scientific reports},
+  volume={9},
+  number={1},
+  pages={1--16},
+  year={2019},
+  publisher={Nature Publishing Group}
+}
+
+@article{lucas_econometric_1976,
+	title = {Econometric policy evaluation: A critique},
+	volume = {1},
+	doi = {10.1016/S0167-2231(76)80003-6},
+	shorttitle = {Econometric policy evaluation},
+	pages = {19--46},
+	journal = {Carnegie-Rochester Conference Series on Public Policy},
+	author = {Lucas, Robert E.},
+	year={1976}
+}
+
+@article{sims_policy_1982,
+	title = {Policy Analysis with Econometric Models},
+	volume = {1982},
+	doi = {10.2307/2534318},
+	pages = {107--164},
+	number = {1},
+	journal = {Brookings Papers on Economic Activity},
+	author = {Sims, Christopher A. and Goldfeld, Stephen M. and Sachs, Jeffrey D.},
+	year = {1982}
+}
+
+@incollection{athey201921,
+  title={The Impact of Machine Learning on Economics},
+  author={Athey, Susan},
+  booktitle={The economics of artificial intelligence},
+  pages={507--552},
+  year={2019},
+  publisher={University of Chicago Press}
+}
+
+@article{maliar2021deep,
+  title={Deep learning for solving dynamic economic models.},
+  author={Maliar, Lilia and Maliar, Serguei and Winant, Pablo},
+  journal={Journal of Monetary Economics},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{smalter2017macroeconomic,
+  title={Macroeconomic indicator forecasting with deep neural networks},
+  author={Smalter Hall, Aaron and Cook, Thomas R},
+  journal={Federal Reserve Bank of Kansas City Working Paper},
+  volume={17-11},
+  year={2017}
+}
+
+@article{plakandaras2015forecasting,
+  title={Forecasting daily and monthly exchange rates with machine learning techniques},
+  author={Plakandaras, Vasilios and Papadimitriou, Theophilos and Gogas, Periklis},
+  journal={Journal of Forecasting},
+  volume={34},
+  number={7},
+  pages={560--573},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{siami2018comparison,
+  title={A comparison of {ARIMA} and {LSTM} in forecasting time series},
+  author={Siami-Namini, Sima and Tavakoli, Neda and Namin, Akbar Siami},
+  booktitle={2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA)},
+  pages={1394--1401},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{nguyen2021macroeconomic,
+  title={Macroeconomic Forecasting Based on {LSTM}-Conditioned Normalizing Flows},
+  author={Nguyen, Hien T and Nguyen, Duc Trung and Nguyen, Ngoc Thach and Nguyen, Hai M and Nguyen, Vu H and Tan, Nguyen Ngoc and Nguyen, Hung MV and Truong, Hoang N and Linh, Nguyen Tran Xuan},
+  booktitle={International Econometric Conference of Vietnam},
+  pages={658--669},
+  year={2021},
+  organization={Springer}
+}
+
+@article{foster1992neural,
+  title={Neural network forecasting of short, noisy time series},
+  author={Foster, WR and Collopy, F and Ungar, LH},
+  journal={Computers \& chemical engineering},
+  volume={16},
+  number={4},
+  pages={293--297},
+  year={1992},
+  publisher={Elsevier}
+}
+
+@article{adya1998effective,
+  title={How effective are neural networks at forecasting and prediction? A review and evaluation},
+  author={Adya, Monica and Collopy, Fred},
+  journal={Journal of forecasting},
+  volume={17},
+  number={5-6},
+  pages={481--495},
+  year={1998},
+  publisher={Wiley Online Library}
+}
+
+@book{zhang2004neural,
+  title={Neural networks in business forecasting},
+  author={Zhang, G Peter},
+  year={2004},
+  publisher={IGI global}
+}
+
+@article{zhang1998forecasting,
+  title={Forecasting with artificial neural networks:: The state of the art},
+  author={Zhang, Guoqiang and Patuwo, B Eddy and Hu, Michael Y},
+  journal={International journal of forecasting},
+  volume={14},
+  number={1},
+  pages={35--62},
+  year={1998},
+  publisher={Elsevier}
+}
+
+@article{denton1995good,
+  title={How good are neural networks for causal forecasting?},
+  author={Denton, James W},
+  journal={The Journal of Business Forecasting},
+  volume={14},
+  number={2},
+  pages={17},
+  year={1995},
+  publisher={Journal of Business Forecasting}
+}
+
+@article{markham1998effect,
+  title={The effect of sample size and variability of data on the comparative performance of artificial neural networks and regression},
+  author={Markham, Ina S and Rakes, Terry R},
+  journal={Computers \& operations research},
+  volume={25},
+  number={4},
+  pages={251--263},
+  Year={1998},
+  publisher={Elsevier}
+}
+
+@article{zhang2003time,
+  title={Time series forecasting using a hybrid {ARIMA} and neural network model},
+  author={Zhang, G Peter},
+  journal={Neurocomputing},
+  volume={50},
+  pages={159--175},
+  year={2003},
+  publisher={Elsevier}
+}
