@@ -1,6 +1,13 @@
 bibtex_to_df<-function(input) {
+  # Takes a text input (such as a read.table output) of bib-format citations and 
+  # isolate each component of the citations in a dataframe
+  
+  library(tidyverse)
+  library(stringi)
+  library(stringr)
   # Cleanup: 1 line per citation
-  output<-data.frame(Authors=character(),Title=character(),Type=character(),Publisher=character(), year=character(),stringsAsFactors = FALSE)
+  output<-data.frame(Authors=character(),Title=character(),Type=character(),
+                     Publisher=character(), year=character(),stringsAsFactors = FALSE)
   count_citations<-0
   cleaned_bib<-data.frame()
   
